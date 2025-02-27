@@ -1,1 +1,1 @@
-# llm_from_scratch
+# Code samples from LLM FROM SCRATCH
